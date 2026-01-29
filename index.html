@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Strong Verbs — Flashcards</title>
+  <link rel="stylesheet" href="../../OneDrive/Desktop/strong%20verbs/style.css" />
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <div class="dot"></div>
+      <div>
+        <div class="title">Strong Verbs</div>
+        <div class="subtitle">Flashcards</div>
+      </div>
+    </div>
+
+    <div class="controls">
+      <button id="shuffleBtn" class="btn" type="button" title="Shuffle">Shuffle</button>
+      <button id="resetBtn" class="btn btn-ghost" type="button" title="Reset progress">Reset</button>
+    </div>
+  </header>
+
+  <main class="wrap">
+
+    <section id="loader" class="loader hidden" aria-live="polite">
+      <div class="loaderTitle">Can’t auto-load <code>verbs.json</code></div>
+      <div class="loaderText">
+        If you opened this page with <code>file://</code>, the browser blocks <code>fetch()</code>.
+        Choose <code>verbs.json</code> manually, or run a local server.
+      </div>
+      <div class="loaderActions">
+        <input id="fileInput" type="file" accept="application/json" />
+        <button id="howToServerBtn" class="btn btn-ghost" type="button">How to run local server</button>
+      </div>
+      <div id="serverHelp" class="loaderHelp hidden">
+        VS Code: install “Live Server”, then right-click <code>index.html</code> → “Open with Live Server”.
+        <br/>
+        Or in this folder run: <code>python -m http.server 8000</code> and open <code>http://localhost:8000</code>.
+      </div>
+    </section>
+
+    <section class="status">
+      <div id="progressText" class="progressText">0 / 0</div>
+      <div class="progressBar"><div id="progressFill" class="progressFill"></div></div>
+      <div class="hint">Click the card to flip • ←/→ navigate • Space flips • K=Known • A=Again</div>
+    </section>
+
+    <section class="cardStage">
+      <button id="prevBtn" class="navBtn" type="button" aria-label="Previous">←</button>
+
+      <div id="card" class="card" role="button" tabindex="0" aria-label="Flashcard">
+        <div class="cardInner" id="cardInner">
+          <div class="cardFace cardFront">
+            <div class="label">Infinitiv</div>
+            <div id="frontWord" class="big">…</div>
+            <div id="frontTranslation" class="small muted"></div>
+          </div>
+
+          <div class="cardFace cardBack">
+            <div class="label">Forms</div>
+            <div class="forms">
+              <div class="row">
+                <div class="k">Präteritum</div>
+                <div id="backPraet" class="v">…</div>
+              </div>
+              <div class="row">
+                <div class="k">Partizip II</div>
+                <div id="backPart" class="v">…</div>
+              </div>
+            </div>
+            <div id="backTranslation" class="small muted"></div>
+          </div>
+        </div>
+      </div>
+
+      <button id="nextBtn" class="navBtn" type="button" aria-label="Next">→</button>
+    </section>
+
+    <section class="footer">
+      <div class="mini">
+        <button id="knownBtn" class="btn btn-good" type="button">Known ✓</button>
+        <button id="againBtn" class="btn btn-bad" type="button">Again ↺</button>
+      </div>
+      <div class="muted small">
+        Known/Again are optional: they only affect how often a card repeats in the shuffled deck.
+      </div>
+    </section>
+  </main>
+</body>
+</html>

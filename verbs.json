@@ -1,0 +1,3756 @@
+{
+  "meta": {
+    "source": "strong verbs.txt",
+    "created_at": "2026-01-29T18:06:41Z",
+    "language": "de",
+    "fields": [
+      "infinitiv",
+      "praeteritum",
+      "partizipII",
+      "category",
+      "excluded",
+      "note"
+    ]
+  },
+  "families": [
+    {
+      "id": 1,
+      "title": "Strong verbs – Family 1 (i → a → u)",
+      "vowel_family": "i→a→u",
+      "pattern": "Infinitiv → Präteritum → Partizip II",
+      "items": [
+        {
+          "infinitiv": "finden",
+          "praeteritum": "fand",
+          "partizipII": "gefunden",
+          "category": [
+            "Core verbs"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "find",
+              "fund",
+              "fond"
+            ],
+            "partizipII": [
+              "gifunden",
+              "gafunden",
+              "gufunden"
+            ]
+          }
+        },
+        {
+          "infinitiv": "trinken",
+          "praeteritum": "trank",
+          "partizipII": "getrunken",
+          "category": [
+            "Core verbs"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "trink",
+              "trunk",
+              "tronk"
+            ],
+            "partizipII": [
+              "gitrunken",
+              "gatrunken",
+              "gutrunken"
+            ]
+          }
+        },
+        {
+          "infinitiv": "singen",
+          "praeteritum": "sang",
+          "partizipII": "gesungen",
+          "category": [
+            "Core verbs"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "sing",
+              "sung",
+              "song"
+            ],
+            "partizipII": [
+              "gisungen",
+              "gasungen",
+              "gusungen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "beginnen",
+          "praeteritum": "begann",
+          "partizipII": "begonnen",
+          "category": [
+            "Core verbs"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "beginn",
+              "begunn",
+              "begonn"
+            ],
+            "partizipII": [
+              "bigonnen",
+              "bagonnen",
+              "bugonnen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "schwimmen",
+          "praeteritum": "schwamm",
+          "partizipII": "geschwommen",
+          "category": [
+            "Core verbs"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "schwimm",
+              "schwumm",
+              "schwomm"
+            ],
+            "partizipII": [
+              "gischwommen",
+              "gaschwommen",
+              "guschwommen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "gewinnen",
+          "praeteritum": "gewann",
+          "partizipII": "gewonnen",
+          "category": [
+            "Core verbs"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "gewinn",
+              "gewunn",
+              "gewonn"
+            ],
+            "partizipII": [
+              "giwonnen",
+              "gawonnen",
+              "guwonnen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "springen",
+          "praeteritum": "sprang",
+          "partizipII": "gesprungen",
+          "category": [
+            "Core verbs"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "spring",
+              "sprung",
+              "sprong"
+            ],
+            "partizipII": [
+              "gisprungen",
+              "gasprungen",
+              "gusprungen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "sinken",
+          "praeteritum": "sank",
+          "partizipII": "gesunken",
+          "category": [
+            "Core verbs"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "sink",
+              "sunk",
+              "sonk"
+            ],
+            "partizipII": [
+              "gisunken",
+              "gasunken",
+              "gusunken"
+            ]
+          }
+        },
+        {
+          "infinitiv": "stinken",
+          "praeteritum": "stank",
+          "partizipII": "gestunken",
+          "category": [
+            "Core verbs"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "stink",
+              "stunk",
+              "stonk"
+            ],
+            "partizipII": [
+              "gistunken",
+              "gastunken",
+              "gustunken"
+            ]
+          }
+        },
+        {
+          "infinitiv": "klingen",
+          "praeteritum": "klang",
+          "partizipII": "geklungen",
+          "category": [
+            "Core verbs"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "kling",
+              "klung",
+              "klong"
+            ],
+            "partizipII": [
+              "giklungen",
+              "gaklungen",
+              "guklungen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "binden",
+          "praeteritum": "band",
+          "partizipII": "gebunden",
+          "category": [
+            "Core verbs"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "bind",
+              "bund",
+              "bond"
+            ],
+            "partizipII": [
+              "gibunden",
+              "gabunden",
+              "gubunden"
+            ]
+          }
+        },
+        {
+          "infinitiv": "zwingen",
+          "praeteritum": "zwang",
+          "partizipII": "gezwungen",
+          "category": [
+            "Core verbs"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "zwing",
+              "zwung",
+              "zwong"
+            ],
+            "partizipII": [
+              "gizwungen",
+              "gazwungen",
+              "guzwungen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "dringen",
+          "praeteritum": "drang",
+          "partizipII": "gedrungen",
+          "category": [
+            "Core verbs"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "dring",
+              "drung",
+              "drong"
+            ],
+            "partizipII": [
+              "gidrungen",
+              "gadrungen",
+              "gudrungen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "verschwinden",
+          "praeteritum": "verschwand",
+          "partizipII": "verschwunden",
+          "category": [
+            "Core verbs"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "verschwind",
+              "verschwund",
+              "verschwond"
+            ],
+            "partizipII": [
+              "virschwunden",
+              "varschwunden",
+              "vurschwunden"
+            ]
+          }
+        },
+        {
+          "infinitiv": "anfangen",
+          "praeteritum": "fing an",
+          "partizipII": "angefangen",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Separable prefixes"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "fing in",
+              "fing un",
+              "fing on"
+            ],
+            "partizipII": [
+              "ingefangen",
+              "ungefangen",
+              "ongefangen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "aufspringen",
+          "praeteritum": "sprang auf",
+          "partizipII": "aufgesprungen",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Separable prefixes"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "sprang if",
+              "sprang af",
+              "sprang uf"
+            ],
+            "partizipII": [
+              "ifgesprungen",
+              "afgesprungen",
+              "ufgesprungen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "einsinken",
+          "praeteritum": "sank ein",
+          "partizipII": "eingesunken",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Separable prefixes"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "sank in",
+              "sank an",
+              "sank un"
+            ],
+            "partizipII": [
+              "ingesunken",
+              "angesunken",
+              "ungesunken"
+            ]
+          }
+        },
+        {
+          "infinitiv": "hineinspringen",
+          "praeteritum": "sprang hinein",
+          "partizipII": "hineingesprungen",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Separable prefixes"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "sprang hinin",
+              "sprang hinan",
+              "sprang hinun"
+            ],
+            "partizipII": [
+              "hiningesprungen",
+              "hinangesprungen",
+              "hinungesprungen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "empfinden",
+          "praeteritum": "empfand",
+          "partizipII": "empfunden",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Inseparable prefixes (NO ge-)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "empfind",
+              "empfund",
+              "empfond"
+            ],
+            "partizipII": [
+              "impfunden",
+              "ampfunden",
+              "umpfunden"
+            ]
+          }
+        },
+        {
+          "infinitiv": "ertrinken",
+          "praeteritum": "ertrank",
+          "partizipII": "ertrunken",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Inseparable prefixes (NO ge-)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "ertrink",
+              "ertrunk",
+              "ertronk"
+            ],
+            "partizipII": [
+              "irtrunken",
+              "artrunken",
+              "urtrunken"
+            ]
+          }
+        },
+        {
+          "infinitiv": "misslingen",
+          "praeteritum": "misslang",
+          "partizipII": "misslungen",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Inseparable prefixes (NO ge-)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "missling",
+              "misslung",
+              "misslong"
+            ],
+            "partizipII": [
+              "misslungin",
+              "misslungan",
+              "misslungun"
+            ]
+          }
+        },
+        {
+          "infinitiv": "gelingen",
+          "praeteritum": "gelang",
+          "partizipII": "gelungen",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Inseparable prefixes (NO ge-)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "geling",
+              "gelung",
+              "gelong"
+            ],
+            "partizipII": [
+              "gilungen",
+              "galungen",
+              "gulungen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "erzwingen",
+          "praeteritum": "erzwang",
+          "partizipII": "erzwungen",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Inseparable prefixes (NO ge-)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "erzwing",
+              "erzwung",
+              "erzwong"
+            ],
+            "partizipII": [
+              "irzwungen",
+              "arzwungen",
+              "urzwungen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "durchdringen",
+          "praeteritum": "durchdrang",
+          "partizipII": "durchdrungen",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Inseparable prefixes (NO ge-)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "durchdring",
+              "durchdrung",
+              "durchdrong"
+            ],
+            "partizipII": [
+              "durchdrungin",
+              "durchdrungan",
+              "durchdrungun"
+            ]
+          }
+        },
+        {
+          "infinitiv": "ringen",
+          "praeteritum": "rang",
+          "partizipII": "gerungen",
+          "category": [
+            "Extended / less frequent (still B2+)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "ring",
+              "rung",
+              "rong"
+            ],
+            "partizipII": [
+              "girungen",
+              "garungen",
+              "gurungen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "schwingen",
+          "praeteritum": "schwang",
+          "partizipII": "geschwungen",
+          "category": [
+            "Extended / less frequent (still B2+)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "schwing",
+              "schwung",
+              "schwong"
+            ],
+            "partizipII": [
+              "gischwungen",
+              "gaschwungen",
+              "guschwungen"
+            ]
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": 2,
+      "title": "Strong verbs – Family 2 (ie → o → o) [inferred]",
+      "vowel_family": "ie→o→o",
+      "pattern": "Infinitiv → Präteritum → Partizip II (inferred ie→o→o)",
+      "items": [
+        {
+          "infinitiv": "ziehen",
+          "praeteritum": "zog",
+          "partizipII": "gezogen",
+          "category": [
+            "Core verbs"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "zieg",
+              "zag",
+              "zug"
+            ],
+            "partizipII": [
+              "giezogen",
+              "gozogen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "fliegen",
+          "praeteritum": "flog",
+          "partizipII": "geflogen",
+          "category": [
+            "Core verbs"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "flieg",
+              "flag",
+              "flug"
+            ],
+            "partizipII": [
+              "gieflogen",
+              "goflogen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "schieben",
+          "praeteritum": "schob",
+          "partizipII": "geschoben",
+          "category": [
+            "Core verbs"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "schieb",
+              "schab",
+              "schub"
+            ],
+            "partizipII": [
+              "gieschoben",
+              "goschoben"
+            ]
+          }
+        },
+        {
+          "infinitiv": "bieten",
+          "praeteritum": "bot",
+          "partizipII": "geboten",
+          "category": [
+            "Core verbs"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "biet",
+              "bat",
+              "but"
+            ],
+            "partizipII": [
+              "gieboten",
+              "goboten"
+            ]
+          }
+        },
+        {
+          "infinitiv": "riechen",
+          "praeteritum": "roch",
+          "partizipII": "gerochen",
+          "category": [
+            "Core verbs"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "riech",
+              "rach",
+              "ruch"
+            ],
+            "partizipII": [
+              "gierochen",
+              "gorochen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "genießen",
+          "praeteritum": "genoss",
+          "partizipII": "genossen",
+          "category": [
+            "Core verbs"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "gienoss",
+              "gonoss"
+            ],
+            "partizipII": [
+              "gienossen",
+              "gonossen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "schließen",
+          "praeteritum": "schloss",
+          "partizipII": "geschlossen",
+          "category": [
+            "Core verbs"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "schliess",
+              "schlass",
+              "schluss"
+            ],
+            "partizipII": [
+              "gieschlossen",
+              "goschlossen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "frieren",
+          "praeteritum": "fror",
+          "partizipII": "gefroren",
+          "category": [
+            "Core verbs"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "frier",
+              "frar",
+              "frur"
+            ],
+            "partizipII": [
+              "giefroren",
+              "gofroren"
+            ]
+          }
+        },
+        {
+          "infinitiv": "verlieren",
+          "praeteritum": "verlor",
+          "partizipII": "verloren",
+          "category": [
+            "Core verbs"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "vierlor",
+              "vorlor"
+            ],
+            "partizipII": [
+              "vierloren",
+              "vorloren"
+            ]
+          }
+        },
+        {
+          "infinitiv": "anziehen",
+          "praeteritum": "zog an",
+          "partizipII": "angezogen",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Separable prefixes"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "zog ien",
+              "zog on"
+            ],
+            "partizipII": [
+              "iengezogen",
+              "ongezogen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "ausziehen",
+          "praeteritum": "zog aus",
+          "partizipII": "ausgezogen",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Separable prefixes"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "zog ies",
+              "zog os"
+            ],
+            "partizipII": [
+              "iesgezogen",
+              "osgezogen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "einfliegen",
+          "praeteritum": "flog ein",
+          "partizipII": "eingeflogen",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Separable prefixes"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "flog ien",
+              "flog on"
+            ],
+            "partizipII": [
+              "iengeflogen",
+              "ongeflogen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "verlieren",
+          "praeteritum": "verlor",
+          "partizipII": "verloren",
+          "category": [
+            "Inseparable prefixes (NO ge-)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "vierlor",
+              "vorlor"
+            ],
+            "partizipII": [
+              "vierloren",
+              "vorloren"
+            ]
+          }
+        },
+        {
+          "infinitiv": "betrügen",
+          "praeteritum": "betrog",
+          "partizipII": "betrogen",
+          "category": [
+            "Inseparable prefixes (NO ge-)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "bietrog",
+              "botrog"
+            ],
+            "partizipII": [
+              "bietrogen",
+              "botrogen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "genießen",
+          "praeteritum": "genoss",
+          "partizipII": "genossen",
+          "category": [
+            "Inseparable prefixes (NO ge-)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "gienoss",
+              "gonoss"
+            ],
+            "partizipII": [
+              "gienossen",
+              "gonossen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "verschließen",
+          "praeteritum": "verschloss",
+          "partizipII": "verschlossen",
+          "category": [
+            "Inseparable prefixes (NO ge-)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "vierschloss",
+              "vorschloss"
+            ],
+            "partizipII": [
+              "vierschlossen",
+              "vorschlossen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "wiegen",
+          "praeteritum": "wog",
+          "partizipII": "gewogen",
+          "category": [
+            "Extended / less frequent (still B2+)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "wieg",
+              "wag",
+              "wug"
+            ],
+            "partizipII": [
+              "giewogen",
+              "gowogen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "lügen",
+          "praeteritum": "log",
+          "partizipII": "gelogen",
+          "category": [
+            "Extended / less frequent (still B2+)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "lieg",
+              "lag",
+              "lug"
+            ],
+            "partizipII": [
+              "gielogen",
+              "gologen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "trügen",
+          "praeteritum": "trog",
+          "partizipII": "getrogen",
+          "category": [
+            "Extended / less frequent (still B2+)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "trieg",
+              "trag",
+              "trug"
+            ],
+            "partizipII": [
+              "gietrogen",
+              "gotrogen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "biegen",
+          "praeteritum": "bog",
+          "partizipII": "gebogen",
+          "category": [
+            "Extended / less frequent (still B2+)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "bieg",
+              "bag",
+              "bug"
+            ],
+            "partizipII": [
+              "giebogen",
+              "gobogen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "saugen",
+          "praeteritum": "sog",
+          "partizipII": "gesogen",
+          "category": [
+            "Extended / less frequent (still B2+)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "sieg",
+              "sag",
+              "sug"
+            ],
+            "partizipII": [
+              "giesogen",
+              "gosogen"
+            ]
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": 3,
+      "title": "Strong verbs – Family 3 (ei → i → i)",
+      "vowel_family": "ei → i → i",
+      "pattern": "Infinitiv → Präteritum → Partizip II",
+      "items": [
+        {
+          "infinitiv": "bleiben",
+          "praeteritum": "blieb",
+          "partizipII": "geblieben",
+          "category": [
+            "Core verbs"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "blei b",
+              "bl i b",
+              "bl ib"
+            ],
+            "partizipII": [
+              "geblei ben",
+              "gebl i ben",
+              "gebl iben"
+            ]
+          }
+        },
+        {
+          "infinitiv": "schreiben",
+          "praeteritum": "schrieb",
+          "partizipII": "geschrieben",
+          "category": [
+            "Core verbs"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "schrei b",
+              "schr i b",
+              "schr ib"
+            ],
+            "partizipII": [
+              "geschrei ben",
+              "geschr i ben",
+              "geschr iben"
+            ]
+          }
+        },
+        {
+          "infinitiv": "treiben",
+          "praeteritum": "trieb",
+          "partizipII": "getrieben",
+          "category": [
+            "Core verbs"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "trei b",
+              "tr i b",
+              "tr ib"
+            ],
+            "partizipII": [
+              "getrei ben",
+              "getr i ben",
+              "getr iben"
+            ]
+          }
+        },
+        {
+          "infinitiv": "steigen",
+          "praeteritum": "stieg",
+          "partizipII": "gestiegen",
+          "category": [
+            "Core verbs"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "stei g",
+              "st i g",
+              "st ig"
+            ],
+            "partizipII": [
+              "gestei gen",
+              "gest i gen",
+              "gest igen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "reiten",
+          "praeteritum": "ritt",
+          "partizipII": "geritten",
+          "category": [
+            "Core verbs"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "rei tt",
+              "r i tt",
+              "r itt"
+            ],
+            "partizipII": [
+              "gei ritten",
+              "g i ritten",
+              "g iritten"
+            ]
+          }
+        },
+        {
+          "infinitiv": "beißen",
+          "praeteritum": "biss",
+          "partizipII": "gebissen",
+          "category": [
+            "Core verbs"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "bei ss",
+              "b i ss",
+              "b iss"
+            ],
+            "partizipII": [
+              "gei bissen",
+              "g i bissen",
+              "g ibissen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "scheinen",
+          "praeteritum": "schien",
+          "partizipII": "geschienen",
+          "category": [
+            "Core verbs"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "schei n",
+              "sch i n",
+              "sch in"
+            ],
+            "partizipII": [
+              "geschei nen",
+              "gesch i nen",
+              "gesch inen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "leihen",
+          "praeteritum": "lieh",
+          "partizipII": "geliehen",
+          "category": [
+            "Core verbs"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "lei h",
+              "l i h",
+              "l ih"
+            ],
+            "partizipII": [
+              "gelei hen",
+              "gel i hen",
+              "gel ihen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "meiden",
+          "praeteritum": "mied",
+          "partizipII": "gemieden",
+          "category": [
+            "Core verbs"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "mei d",
+              "m i d",
+              "m id"
+            ],
+            "partizipII": [
+              "gemei den",
+              "gem i den",
+              "gem iden"
+            ]
+          }
+        },
+        {
+          "infinitiv": "pfeifen",
+          "praeteritum": "pfiff",
+          "partizipII": "gepfiffen",
+          "category": [
+            "Core verbs"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "pfei ff",
+              "pf i ff",
+              "pf iff"
+            ],
+            "partizipII": [
+              "gei pfiffen",
+              "g i pfiffen",
+              "g ipfiffen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "aufsteigen",
+          "praeteritum": "stieg auf",
+          "partizipII": "aufgestiegen",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Separable prefixes"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "stei g auf",
+              "st i g auf",
+              "st ig auf"
+            ],
+            "partizipII": [
+              "aufgestei gen",
+              "aufgest i gen",
+              "aufgest igen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "einsteigen",
+          "praeteritum": "stieg ein",
+          "partizipII": "eingestiegen",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Separable prefixes"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "stei g ein",
+              "st i g ein",
+              "st ig ein"
+            ],
+            "partizipII": [
+              "eingestei gen",
+              "eingest i gen",
+              "eingest igen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "aussteigen",
+          "praeteritum": "stieg aus",
+          "partizipII": "ausgestiegen",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Separable prefixes"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "stei g aus",
+              "st i g aus",
+              "st ig aus"
+            ],
+            "partizipII": [
+              "ausgestei gen",
+              "ausgest i gen",
+              "ausgest igen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "zurückbleiben",
+          "praeteritum": "blieb zurück",
+          "partizipII": "zurückgeblieben",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Separable prefixes"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "blei b zurück",
+              "bl i b zurück",
+              "bl ib zurück"
+            ],
+            "partizipII": [
+              "zurückgeblei ben",
+              "zurückgebl i ben",
+              "zurückgebl iben"
+            ]
+          }
+        },
+        {
+          "infinitiv": "einschreiben",
+          "praeteritum": "schrieb ein",
+          "partizipII": "eingeschrieben",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Separable prefixes"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "schrei b ein",
+              "schr i b ein",
+              "schr ib ein"
+            ],
+            "partizipII": [
+              "eingeschrei ben",
+              "eingeschr i ben",
+              "eingeschr iben"
+            ]
+          }
+        },
+        {
+          "infinitiv": "beschreiben",
+          "praeteritum": "beschrieb",
+          "partizipII": "beschrieben",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Inseparable prefixes (NO ge-)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "beschrei b",
+              "beschr i b",
+              "beschr ib"
+            ],
+            "partizipII": [
+              "beschrei ben",
+              "beschr i ben",
+              "beschr iben"
+            ]
+          }
+        },
+        {
+          "infinitiv": "vertreiben",
+          "praeteritum": "vertrieb",
+          "partizipII": "vertrieben",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Inseparable prefixes (NO ge-)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "vertrei b",
+              "vertr i b",
+              "vertr ib"
+            ],
+            "partizipII": [
+              "vertrei ben",
+              "vertr i ben",
+              "vertr iben"
+            ]
+          }
+        },
+        {
+          "infinitiv": "vermeiden",
+          "praeteritum": "vermied",
+          "partizipII": "vermieden",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Inseparable prefixes (NO ge-)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "vermei d",
+              "verm i d",
+              "verm id"
+            ],
+            "partizipII": [
+              "vermei den",
+              "verm i den",
+              "verm iden"
+            ]
+          }
+        },
+        {
+          "infinitiv": "verleihen",
+          "praeteritum": "verlieh",
+          "partizipII": "verliehen",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Inseparable prefixes (NO ge-)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "verlei h",
+              "verl i h",
+              "verl ih"
+            ],
+            "partizipII": [
+              "verlei hen",
+              "verl i hen",
+              "verl ihen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "zerreißen",
+          "praeteritum": "zerriss",
+          "partizipII": "zerrissen",
+          "category": [
+            "Extended / less frequent (still B2+)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "zei rriss",
+              "z i rriss",
+              "z irriss"
+            ],
+            "partizipII": [
+              "zei rrissen",
+              "z i rrissen",
+              "z irrissen"
+            ]
+          }
+        }
+      ],
+      "notes": [
+        {
+          "category": [],
+          "text": "👉 ei → i → i"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Strong verbs – Family 4 (e → a → o)",
+      "vowel_family": "e → a → o",
+      "pattern": "Infinitiv → Präteritum → Partizip II",
+      "items": [
+        {
+          "infinitiv": "sprechen",
+          "praeteritum": "sprach",
+          "partizipII": "gesprochen",
+          "category": [
+            "Core verbs (VERY B2-relevant)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "spre ch",
+              "spr a ch",
+              "spr och"
+            ],
+            "partizipII": [
+              "ge sprochen",
+              "g a sprochen",
+              "g osprochen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "treffen",
+          "praeteritum": "traf",
+          "partizipII": "getroffen",
+          "category": [
+            "Core verbs (VERY B2-relevant)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "tre f",
+              "tr a f",
+              "tr of"
+            ],
+            "partizipII": [
+              "ge troffen",
+              "g a troffen",
+              "g otroffen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "helfen",
+          "praeteritum": "half",
+          "partizipII": "geholfen",
+          "category": [
+            "Core verbs (VERY B2-relevant)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "he lf",
+              "h a lf",
+              "h olf"
+            ],
+            "partizipII": [
+              "ge holfen",
+              "g a holfen",
+              "g oholfen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "werfen",
+          "praeteritum": "warf",
+          "partizipII": "geworfen",
+          "category": [
+            "Core verbs (VERY B2-relevant)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "we rf",
+              "w a rf",
+              "w orf"
+            ],
+            "partizipII": [
+              "ge worfen",
+              "g a worfen",
+              "g oworfen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "sterben",
+          "praeteritum": "starb",
+          "partizipII": "gestorben",
+          "category": [
+            "Core verbs (VERY B2-relevant)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "ste rb",
+              "st a rb",
+              "st orb"
+            ],
+            "partizipII": [
+              "ge storben",
+              "g a storben",
+              "g ostorben"
+            ]
+          }
+        },
+        {
+          "infinitiv": "brechen",
+          "praeteritum": "brach",
+          "partizipII": "gebrochen",
+          "category": [
+            "Core verbs (VERY B2-relevant)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "bre ch",
+              "br a ch",
+              "br och"
+            ],
+            "partizipII": [
+              "ge brochen",
+              "g a brochen",
+              "g obrochen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "nehmen",
+          "praeteritum": "nahm",
+          "partizipII": "genommen",
+          "category": [
+            "Core verbs (VERY B2-relevant)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "ne hm",
+              "n a hm",
+              "n ohm"
+            ],
+            "partizipII": [
+              "ge nommen",
+              "g a nommen",
+              "g onommen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "stehlen",
+          "praeteritum": "stahl",
+          "partizipII": "gestohlen",
+          "category": [
+            "Core verbs (VERY B2-relevant)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "ste hl",
+              "st a hl",
+              "st ohl"
+            ],
+            "partizipII": [
+              "ge stohlen",
+              "g a stohlen",
+              "g ostohlen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "gelten",
+          "praeteritum": "galt",
+          "partizipII": "gegolten",
+          "category": [
+            "Core verbs (VERY B2-relevant)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "ge lt",
+              "g a lt",
+              "g olt"
+            ],
+            "partizipII": [
+              "ge golten",
+              "g a golten",
+              "g ogolten"
+            ]
+          }
+        },
+        {
+          "infinitiv": "erschrecken",
+          "praeteritum": "erschrak",
+          "partizipII": "erschrocken",
+          "category": [
+            "Core verbs (VERY B2-relevant)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "erschre k",
+              "erschr a k",
+              "erschr ok"
+            ],
+            "partizipII": [
+              "e rschrocken",
+              " a rschrocken",
+              " orschrocken"
+            ]
+          }
+        },
+        {
+          "infinitiv": "ansprechen",
+          "praeteritum": "sprach an",
+          "partizipII": "angesprochen",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Separable prefixes"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "spre ch an",
+              "spr a ch an",
+              "spr och an"
+            ],
+            "partizipII": [
+              "e ngesprochen",
+              " a ngesprochen",
+              " ongesprochen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "aussprechen",
+          "praeteritum": "sprach aus",
+          "partizipII": "ausgesprochen",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Separable prefixes"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "sprach e s",
+              "sprach  a s",
+              "sprach  os"
+            ],
+            "partizipII": [
+              "e sgesprochen",
+              " a sgesprochen",
+              " osgesprochen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "abbrechen",
+          "praeteritum": "brach ab",
+          "partizipII": "abgebrochen",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Separable prefixes"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "bre ch ab",
+              "br a ch ab",
+              "br och ab"
+            ],
+            "partizipII": [
+              "e bgebrochen",
+              " a bgebrochen",
+              " obgebrochen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "einwerfen",
+          "praeteritum": "warf ein",
+          "partizipII": "eingeworfen",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Separable prefixes"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "warf e n",
+              "warf  a n",
+              "warf  on"
+            ],
+            "partizipII": [
+              "e ngeworfen",
+              " a ngeworfen",
+              " ongeworfen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "vorwerfen",
+          "praeteritum": "warf vor",
+          "partizipII": "vorgeworfen",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Separable prefixes"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "we rf vor",
+              "w a rf vor",
+              "w orf vor"
+            ],
+            "partizipII": [
+              "vorge worfen",
+              "vorg a worfen",
+              "vorg oworfen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "besprechen",
+          "praeteritum": "besprach",
+          "partizipII": "besprochen",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Inseparable prefixes (NO ge-)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "bespre ch",
+              "bespr a ch",
+              "bespr och"
+            ],
+            "partizipII": [
+              "be sprochen",
+              "b a sprochen",
+              "b osprochen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "versprechen",
+          "praeteritum": "versprach",
+          "partizipII": "versprochen",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Inseparable prefixes (NO ge-)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "verspre ch",
+              "verspr a ch",
+              "verspr och"
+            ],
+            "partizipII": [
+              "ve rsprochen",
+              "v a rsprochen",
+              "v orsprochen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "entnehmen",
+          "praeteritum": "entnahm",
+          "partizipII": "entnommen",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Inseparable prefixes (NO ge-)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "entne hm",
+              "entn a hm",
+              "entn ohm"
+            ],
+            "partizipII": [
+              "e ntnommen",
+              " a ntnommen",
+              " ontnommen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "unterbrechen",
+          "praeteritum": "unterbrach",
+          "partizipII": "unterbrochen",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Inseparable prefixes (NO ge-)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "unterbre ch",
+              "unterbr a ch",
+              "unterbr och"
+            ],
+            "partizipII": [
+              "unte rbrochen",
+              "unt a rbrochen",
+              "unt orbrochen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "verderben",
+          "praeteritum": "verdarb",
+          "partizipII": "verdorben",
+          "category": [
+            "Extended / less frequent (still B2+)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "verde rb",
+              "verd a rb",
+              "verd orb"
+            ],
+            "partizipII": [
+              "ve rdorben",
+              "v a rdorben",
+              "v ordorben"
+            ]
+          }
+        },
+        {
+          "infinitiv": "erschlagen",
+          "praeteritum": "erschlug",
+          "partizipII": "erschlagen",
+          "category": [
+            "Extended / less frequent (still B2+)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "e rschlug",
+              " a rschlug",
+              " orschlug"
+            ],
+            "partizipII": [
+              "erschle gen",
+              "erschl a gen",
+              "erschl ogen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "übertreffen",
+          "praeteritum": "übertraf",
+          "partizipII": "übertroffen",
+          "category": [
+            "Extended / less frequent (still B2+)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "e bertraf",
+              " a bertraf",
+              " obertraf"
+            ],
+            "partizipII": [
+              "e bertroffen",
+              " a bertroffen",
+              " obertroffen"
+            ]
+          }
+        }
+      ],
+      "notes": [
+        {
+          "category": [],
+          "text": "👉 e → a → o"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Strong verbs – Family 5 (e → a → e)",
+      "vowel_family": "e → a → e",
+      "pattern": "Infinitiv → Präteritum → Partizip II",
+      "items": [
+        {
+          "infinitiv": "geben",
+          "praeteritum": "gab",
+          "partizipII": "gegeben",
+          "category": [
+            "Core verbs (high-frequency, B2-safe)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "ge b",
+              "g a b",
+              "g eb"
+            ],
+            "partizipII": [
+              "ge geben",
+              "g a geben",
+              "g egeben"
+            ]
+          }
+        },
+        {
+          "infinitiv": "lesen",
+          "praeteritum": "las",
+          "partizipII": "gelesen",
+          "category": [
+            "Core verbs (high-frequency, B2-safe)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "le s",
+              "l a s",
+              "l es"
+            ],
+            "partizipII": [
+              "ge lesen",
+              "g a lesen",
+              "g elesen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "sehen",
+          "praeteritum": "sah",
+          "partizipII": "gesehen",
+          "category": [
+            "Core verbs (high-frequency, B2-safe)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "se h",
+              "s a h",
+              "s eh"
+            ],
+            "partizipII": [
+              "ge sehen",
+              "g a sehen",
+              "g esehen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "essen",
+          "praeteritum": "aß",
+          "partizipII": "gegessen",
+          "category": [
+            "Core verbs (high-frequency, B2-safe)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "e ß",
+              " a ß",
+              " eß"
+            ],
+            "partizipII": [
+              "ge gessen",
+              "g a gessen",
+              "g egessen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "treten",
+          "praeteritum": "trat",
+          "partizipII": "getreten",
+          "category": [
+            "Core verbs (high-frequency, B2-safe)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "tre t",
+              "tr a t",
+              "tr et"
+            ],
+            "partizipII": [
+              "ge treten",
+              "g a treten",
+              "g etreten"
+            ]
+          }
+        },
+        {
+          "infinitiv": "vergessen",
+          "praeteritum": "vergaß",
+          "partizipII": "vergessen",
+          "category": [
+            "Core verbs (high-frequency, B2-safe)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "verge ß",
+              "verg a ß",
+              "verg eß"
+            ],
+            "partizipII": [
+              "ve rgessen",
+              "v a rgessen",
+              "v ergessen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "geschehen",
+          "praeteritum": "geschah",
+          "partizipII": "geschehen",
+          "category": [
+            "Core verbs (high-frequency, B2-safe)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "gesche h",
+              "gesch a h",
+              "gesch eh"
+            ],
+            "partizipII": [
+              "ge schehen",
+              "g a schehen",
+              "g eschehen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "messen",
+          "praeteritum": "maß",
+          "partizipII": "gemessen",
+          "category": [
+            "Core verbs (high-frequency, B2-safe)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "me ß",
+              "m a ß",
+              "m eß"
+            ],
+            "partizipII": [
+              "ge messen",
+              "g a messen",
+              "g emessen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "abgeben",
+          "praeteritum": "gab ab",
+          "partizipII": "abgegeben",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Separable prefixes"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "ge b ab",
+              "g a b ab",
+              "g eb ab"
+            ],
+            "partizipII": [
+              "e bgegeben",
+              " a bgegeben",
+              " ebgegeben"
+            ]
+          }
+        },
+        {
+          "infinitiv": "ausgeben",
+          "praeteritum": "gab aus",
+          "partizipII": "ausgegeben",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Separable prefixes"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "gab e s",
+              "gab  a s",
+              "gab  es"
+            ],
+            "partizipII": [
+              "e sgegeben",
+              " a sgegeben",
+              " esgegeben"
+            ]
+          }
+        },
+        {
+          "infinitiv": "eingeben",
+          "praeteritum": "gab ein",
+          "partizipII": "eingegeben",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Separable prefixes"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "gab e n",
+              "gab  a n",
+              "gab  en"
+            ],
+            "partizipII": [
+              "e ngegeben",
+              " a ngegeben",
+              " engegeben"
+            ]
+          }
+        },
+        {
+          "infinitiv": "vorlesen",
+          "praeteritum": "las vor",
+          "partizipII": "vorgelesen",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Separable prefixes"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "le s vor",
+              "l a s vor",
+              "l es vor"
+            ],
+            "partizipII": [
+              "vorge lesen",
+              "vorg a lesen",
+              "vorg elesen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "zusehen",
+          "praeteritum": "sah zu",
+          "partizipII": "zugesehen",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Separable prefixes"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "se h zu",
+              "s a h zu",
+              "s eh zu"
+            ],
+            "partizipII": [
+              "zuge sehen",
+              "zug a sehen",
+              "zug esehen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "vergeben",
+          "praeteritum": "vergab",
+          "partizipII": "vergeben",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Inseparable prefixes (NO ge-)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "verge b",
+              "verg a b",
+              "verg eb"
+            ],
+            "partizipII": [
+              "ve rgeben",
+              "v a rgeben",
+              "v ergeben"
+            ]
+          }
+        },
+        {
+          "infinitiv": "versehen",
+          "praeteritum": "versah",
+          "partizipII": "versehen",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Inseparable prefixes (NO ge-)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "verse h",
+              "vers a h",
+              "vers eh"
+            ],
+            "partizipII": [
+              "ve rsehen",
+              "v a rsehen",
+              "v ersehen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "übersehen",
+          "praeteritum": "übersah",
+          "partizipII": "übersehen",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Inseparable prefixes (NO ge-)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "e bersah",
+              " a bersah",
+              " ebersah"
+            ],
+            "partizipII": [
+              "e bersehen",
+              " a bersehen",
+              " ebersehen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "genesen",
+          "praeteritum": "genas",
+          "partizipII": "genesen",
+          "category": [
+            "Extended / less frequent (still B2+)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "gene s",
+              "gen a s",
+              "gen es"
+            ],
+            "partizipII": [
+              "ge nesen",
+              "g a nesen",
+              "g enesen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "besehen",
+          "praeteritum": "besah",
+          "partizipII": "besehen",
+          "category": [
+            "Extended / less frequent (still B2+)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "bese h",
+              "bes a h",
+              "bes eh"
+            ],
+            "partizipII": [
+              "be sehen",
+              "b a sehen",
+              "b esehen"
+            ]
+          }
+        }
+      ],
+      "notes": [
+        {
+          "category": [],
+          "text": "👉 e → a → e"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Strong verbs – Family 6 (a → u → a)",
+      "vowel_family": "a → u → a",
+      "pattern": "Infinitiv → Präteritum → Partizip II",
+      "items": [
+        {
+          "infinitiv": "fahren",
+          "praeteritum": "fuhr",
+          "partizipII": "gefahren",
+          "category": [],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "fa hr",
+              "f u hr",
+              "f ahr"
+            ],
+            "partizipII": [
+              "gefa hren",
+              "gef u hren",
+              "gef ahren"
+            ]
+          }
+        },
+        {
+          "infinitiv": "tragen",
+          "praeteritum": "trug",
+          "partizipII": "getragen",
+          "category": [],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "tra g",
+              "tr u g",
+              "tr ag"
+            ],
+            "partizipII": [
+              "getra gen",
+              "getr u gen",
+              "getr agen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "schlagen",
+          "praeteritum": "schlug",
+          "partizipII": "geschlagen",
+          "category": [],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "schla g",
+              "schl u g",
+              "schl ag"
+            ],
+            "partizipII": [
+              "geschla gen",
+              "geschl u gen",
+              "geschl agen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "wachsen",
+          "praeteritum": "wuchs",
+          "partizipII": "gewachsen",
+          "category": [],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "wa chs",
+              "w u chs",
+              "w achs"
+            ],
+            "partizipII": [
+              "gewa chsen",
+              "gew u chsen",
+              "gew achsen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "waschen",
+          "praeteritum": "wusch",
+          "partizipII": "gewaschen",
+          "category": [],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "wa sch",
+              "w u sch",
+              "w asch"
+            ],
+            "partizipII": [
+              "gewa schen",
+              "gew u schen",
+              "gew aschen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "graben",
+          "praeteritum": "grub",
+          "partizipII": "gegraben",
+          "category": [],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "gra b",
+              "gr u b",
+              "gr ab"
+            ],
+            "partizipII": [
+              "gegra ben",
+              "gegr u ben",
+              "gegr aben"
+            ]
+          }
+        },
+        {
+          "infinitiv": "laden",
+          "praeteritum": "lud",
+          "partizipII": "geladen",
+          "category": [],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "la d",
+              "l u d",
+              "l ad"
+            ],
+            "partizipII": [
+              "gela den",
+              "gel u den",
+              "gel aden"
+            ]
+          }
+        },
+        {
+          "infinitiv": "abfahren",
+          "praeteritum": "fuhr ab",
+          "partizipII": "abgefahren",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Separable prefixes"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "fuhr a b",
+              "fuhr  u b",
+              "fuhr  ab"
+            ],
+            "partizipII": [
+              "a bgefahren",
+              " u bgefahren",
+              " abgefahren"
+            ]
+          }
+        },
+        {
+          "infinitiv": "anfahren",
+          "praeteritum": "fuhr an",
+          "partizipII": "angefahren",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Separable prefixes"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "fuhr a n",
+              "fuhr  u n",
+              "fuhr  an"
+            ],
+            "partizipII": [
+              "a ngefahren",
+              " u ngefahren",
+              " angefahren"
+            ]
+          }
+        },
+        {
+          "infinitiv": "mitfahren",
+          "praeteritum": "fuhr mit",
+          "partizipII": "mitgefahren",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Separable prefixes"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "fuhr ma t",
+              "fuhr m u t",
+              "fuhr m at"
+            ],
+            "partizipII": [
+              "mitgefa hren",
+              "mitgef u hren",
+              "mitgef ahren"
+            ]
+          }
+        },
+        {
+          "infinitiv": "aufschlagen",
+          "praeteritum": "schlug auf",
+          "partizipII": "aufgeschlagen",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Separable prefixes"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "schlug a f",
+              "schlug  u f",
+              "schlug  af"
+            ],
+            "partizipII": [
+              "a fgeschlagen",
+              " u fgeschlagen",
+              " afgeschlagen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "einladen",
+          "praeteritum": "lud ein",
+          "partizipII": "eingeladen",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Separable prefixes"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "lud a n",
+              "lud  u n",
+              "lud  an"
+            ],
+            "partizipII": [
+              "a ngeladen",
+              " u ngeladen",
+              " angeladen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "erfahren",
+          "praeteritum": "erfuhr",
+          "partizipII": "erfahren",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Inseparable prefixes (NO ge-)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "a rfuhr",
+              " u rfuhr",
+              " arfuhr"
+            ],
+            "partizipII": [
+              "erfa hren",
+              "erf u hren",
+              "erf ahren"
+            ]
+          }
+        },
+        {
+          "infinitiv": "vertragen",
+          "praeteritum": "vertrug",
+          "partizipII": "vertragen",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Inseparable prefixes (NO ge-)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "va rtrug",
+              "v u rtrug",
+              "v artrug"
+            ],
+            "partizipII": [
+              "vertra gen",
+              "vertr u gen",
+              "vertr agen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "übertragen",
+          "praeteritum": "übertrug",
+          "partizipII": "übertragen",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Inseparable prefixes (NO ge-)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "a bertrug",
+              " u bertrug",
+              " abertrug"
+            ],
+            "partizipII": [
+              "a bertragen",
+              " u bertragen",
+              " abertragen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "backen",
+          "praeteritum": "buk",
+          "partizipII": "gebacken",
+          "category": [
+            "Extended / less frequent (still B2+)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "ba k",
+              "b u k",
+              "b ak"
+            ],
+            "partizipII": [
+              "geba cken",
+              "geb u cken",
+              "geb acken"
+            ]
+          }
+        }
+      ],
+      "notes": [
+        {
+          "category": [],
+          "text": "👉 a → u → a"
+        },
+        {
+          "category": [],
+          "text": "Core verbs (movement / physical action – very common)"
+        },
+        {
+          "category": [],
+          "text": "mahlen – mahlte ❌ → ⚠️ not strong, ignore"
+        },
+        {
+          "category": [
+            "Extended / less frequent (still B2+)"
+          ],
+          "text": "schaden – schadete ❌ → weak, ignore"
+        },
+        {
+          "category": [
+            "Ultra-important exam traps"
+          ],
+          "text": "❌ gefahrt, geschlagt, getragenet"
+        },
+        {
+          "category": [
+            "Ultra-important exam traps"
+          ],
+          "text": "✅ gefahren, geschlagen, getragen"
+        },
+        {
+          "category": [
+            "Ultra-important exam traps"
+          ],
+          "text": "❌ übergetragen"
+        },
+        {
+          "category": [
+            "Ultra-important exam traps"
+          ],
+          "text": "✅ übertragen (inseparable prefix)"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Strong verbs – Family 7 (mixed / high-frequency irregulars)",
+      "vowel_family": "mixed / high-frequency irregulars",
+      "pattern": "Irregular vowel changes – must be memorized as units",
+      "items": [
+        {
+          "infinitiv": "kommen",
+          "praeteritum": "kam",
+          "partizipII": "gekommen",
+          "category": [
+            "Core verbs (EXTREMELY important for B2)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "kmixed / high-frequency irregularsm",
+              "kom",
+              "kum"
+            ],
+            "partizipII": [
+              "gmixed / high-frequency irregularskommen",
+              "gokommen",
+              "gakommen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "laufen",
+          "praeteritum": "lief",
+          "partizipII": "gelaufen",
+          "category": [
+            "Core verbs (EXTREMELY important for B2)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "lmixed / high-frequency irregularsf",
+              "lof",
+              "laf"
+            ],
+            "partizipII": [
+              "gelmixed / high-frequency irregularsfen",
+              "gelofen",
+              "gelafen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "halten",
+          "praeteritum": "hielt",
+          "partizipII": "gehalten",
+          "category": [
+            "Core verbs (EXTREMELY important for B2)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "hmixed / high-frequency irregularslt",
+              "holt",
+              "halt"
+            ],
+            "partizipII": [
+              "gehmixed / high-frequency irregularslten",
+              "geholten",
+              "gehulten"
+            ]
+          }
+        },
+        {
+          "infinitiv": "stehen",
+          "praeteritum": "stand",
+          "partizipII": "gestanden",
+          "category": [
+            "Core verbs (EXTREMELY important for B2)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "stmixed / high-frequency irregularsnd",
+              "stond",
+              "stund"
+            ],
+            "partizipII": [
+              "gestmixed / high-frequency irregularsnden",
+              "gestonden",
+              "gestunden"
+            ]
+          }
+        },
+        {
+          "infinitiv": "fallen",
+          "praeteritum": "fiel",
+          "partizipII": "gefallen",
+          "category": [
+            "Core verbs (EXTREMELY important for B2)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "fmixed / high-frequency irregularsl",
+              "fol",
+              "fal"
+            ],
+            "partizipII": [
+              "gefmixed / high-frequency irregularsllen",
+              "gefollen",
+              "gefullen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "heißen",
+          "praeteritum": "hieß",
+          "partizipII": "geheißen",
+          "category": [
+            "Core verbs (EXTREMELY important for B2)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "hmixed / high-frequency irregularsß",
+              "hoß",
+              "haß"
+            ],
+            "partizipII": [
+              "gehmixed / high-frequency irregularsßen",
+              "gehoßen",
+              "gehaßen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "lassen",
+          "praeteritum": "ließ",
+          "partizipII": "gelassen",
+          "category": [
+            "Core verbs (EXTREMELY important for B2)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "lmixed / high-frequency irregularsß",
+              "loß",
+              "laß"
+            ],
+            "partizipII": [
+              "gelmixed / high-frequency irregularsssen",
+              "gelossen",
+              "gelussen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "bringen",
+          "praeteritum": "brachte",
+          "partizipII": "gebracht",
+          "category": [
+            "finden ❌ → belongs to Family 1"
+          ],
+          "excluded": false,
+          "note": "mixed",
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "brmixed / high-frequency irregularschte",
+              "brochte",
+              "bruchte"
+            ],
+            "partizipII": [
+              "gebrmixed / high-frequency irregularscht",
+              "gebrocht",
+              "gebrucht"
+            ]
+          }
+        },
+        {
+          "infinitiv": "denken",
+          "praeteritum": "dachte",
+          "partizipII": "gedacht",
+          "category": [
+            "finden ❌ → belongs to Family 1"
+          ],
+          "excluded": false,
+          "note": "mixed",
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "dmixed / high-frequency irregularschte",
+              "dochte",
+              "duchte"
+            ],
+            "partizipII": [
+              "gedmixed / high-frequency irregularscht",
+              "gedocht",
+              "geducht"
+            ]
+          }
+        },
+        {
+          "infinitiv": "ankommen",
+          "praeteritum": "kam an",
+          "partizipII": "angekommen",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Separable prefixes"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "kmixed / high-frequency irregularsm an",
+              "kom an",
+              "kum an"
+            ],
+            "partizipII": [
+              "mixed / high-frequency irregularsngekommen",
+              "ongekommen",
+              "ungekommen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "loslaufen",
+          "praeteritum": "lief los",
+          "partizipII": "losgelaufen",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Separable prefixes"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "lmixed / high-frequency irregularsf los",
+              "lof los",
+              "laf los"
+            ],
+            "partizipII": [
+              "losgelmixed / high-frequency irregularsfen",
+              "losgelofen",
+              "losgelafen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "festhalten",
+          "praeteritum": "hielt fest",
+          "partizipII": "festgehalten",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Separable prefixes"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "hmixed / high-frequency irregularslt fest",
+              "holt fest",
+              "halt fest"
+            ],
+            "partizipII": [
+              "festgehmixed / high-frequency irregularslten",
+              "festgeholten",
+              "festgehulten"
+            ]
+          }
+        },
+        {
+          "infinitiv": "aufstehen",
+          "praeteritum": "stand auf",
+          "partizipII": "aufgestanden",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Separable prefixes"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "stand mixed / high-frequency irregularsf",
+              "stand of",
+              "stand af"
+            ],
+            "partizipII": [
+              "mixed / high-frequency irregularsfgestanden",
+              "ofgestanden",
+              "afgestanden"
+            ]
+          }
+        },
+        {
+          "infinitiv": "hinfallen",
+          "praeteritum": "fiel hin",
+          "partizipII": "hingefallen",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Separable prefixes"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "fmixed / high-frequency irregularsl hin",
+              "fol hin",
+              "fal hin"
+            ],
+            "partizipII": [
+              "hingefmixed / high-frequency irregularsllen",
+              "hingefollen",
+              "hingefullen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "stehen bleiben",
+          "praeteritum": "blieb stehen",
+          "partizipII": "stehen geblieben",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Separable prefixes"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "blmixed / high-frequency irregularsb stehen",
+              "blob stehen",
+              "blab stehen"
+            ],
+            "partizipII": [
+              "stehen geblmixed / high-frequency irregularsben",
+              "stehen gebloben",
+              "stehen geblaben"
+            ]
+          }
+        },
+        {
+          "infinitiv": "bekommen",
+          "praeteritum": "bekam",
+          "partizipII": "bekommen",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Inseparable prefixes (NO ge-)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "bekmixed / high-frequency irregularsm",
+              "bekom",
+              "bekum"
+            ],
+            "partizipII": [
+              "bmixed / high-frequency irregularskommen",
+              "bokommen",
+              "bakommen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "verlassen",
+          "praeteritum": "verließ",
+          "partizipII": "verlassen",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Inseparable prefixes (NO ge-)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "verlmixed / high-frequency irregularsß",
+              "verloß",
+              "verlaß"
+            ],
+            "partizipII": [
+              "verlmixed / high-frequency irregularsssen",
+              "verlossen",
+              "verlussen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "unterlassen",
+          "praeteritum": "unterließ",
+          "partizipII": "unterlassen",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Inseparable prefixes (NO ge-)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "unterlmixed / high-frequency irregularsß",
+              "unterloß",
+              "unterlaß"
+            ],
+            "partizipII": [
+              "unterlmixed / high-frequency irregularsssen",
+              "unterlossen",
+              "unterlussen"
+            ]
+          }
+        },
+        {
+          "infinitiv": "behalten",
+          "praeteritum": "behielt",
+          "partizipII": "behalten",
+          "category": [
+            "With prefixes (B2-relevant)",
+            "Inseparable prefixes (NO ge-)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "behmixed / high-frequency irregularslt",
+              "beholt",
+              "behalt"
+            ],
+            "partizipII": [
+              "behmixed / high-frequency irregularslten",
+              "beholten",
+              "behulten"
+            ]
+          }
+        },
+        {
+          "infinitiv": "missverstehen",
+          "praeteritum": "missverstand",
+          "partizipII": "missverstanden",
+          "category": [
+            "Extended / less frequent (still B2+)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "missverstmixed / high-frequency irregularsnd",
+              "missverstond",
+              "missverstund"
+            ],
+            "partizipII": [
+              "missverstmixed / high-frequency irregularsnden",
+              "missverstonden",
+              "missverstunden"
+            ]
+          }
+        },
+        {
+          "infinitiv": "widerstehen",
+          "praeteritum": "widerstand",
+          "partizipII": "widerstanden",
+          "category": [
+            "Extended / less frequent (still B2+)"
+          ],
+          "excluded": false,
+          "note": null,
+          "translation": {
+            "en": null
+          },
+          "distractors": {
+            "praeteritum": [
+              "widerstmixed / high-frequency irregularsnd",
+              "widerstond",
+              "widerstund"
+            ],
+            "partizipII": [
+              "widerstmixed / high-frequency irregularsnden",
+              "widerstonden",
+              "widerstunden"
+            ]
+          }
+        }
+      ],
+      "notes": [
+        {
+          "category": [],
+          "text": "👉 No clean vowel family"
+        }
+      ]
+    }
+  ]
+}
