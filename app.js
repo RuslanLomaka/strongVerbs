@@ -124,17 +124,25 @@ function markAgain(){
 
 async function init(){
   loadState();
-  let json;
-  try{
-    const res = await fetch("verbs.json", { cache:"no-store" });
-    json = await res.json();
-  }catch(e){
-    // If you opened index.html via file://, fetch() is blocked.
-    // Fallback to verbs.js (window.VERBS).
-    json = window.VERBS || [];
-  }
-  deck = Array.isArray(json) ? json : (json.verbs || []);
-  deck = deck.filter(v => v?.infinitiv && v?.praeteritum && v?.partizipII);
+
+  const res = await fetch("verbs.json", { cache:"no-store" });
+  const json = await res.json();
+
+  // 🔧 FIX: extract verbs from your real schema
+  deck = Array.isArray(json)
+      ? json
+      : (json.verbs || json.items || []).length
+          ? (json.verbs || json.items || [])
+          : (json.families || []).flatMap(f => f.items || []);
+
+  // optional: skip excluded verbs
+  deck = deck.filter(v =>
+      v?.infinitiv &&
+      v?.praeteritum &&
+      v?.partizipII &&
+      v.excluded !== true
+  );
+
   buildOrder();
   render();
 
